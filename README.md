@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Defi-Stable-Coin protocol.](https://github.com/marindimitrov12/foundry-defi-stablecoin)
 
-- 🌱 I’m currently learning **Solidity Foundry and we3.js**
+- 🌱 I’m currently learning **Solidity Foundry and web3.js**
 
 - 📫 How to reach me **marin200041@gmail.com**
 
