@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marin Dimitrov</h1>
-<h3 align="center">Enthusiastic and aspiring Web3 Full Stack Developer with a deep passion for blockchain technology and decentralized applications. While currently building a foundation in web development and blockchain fundamentals, I am eager to contribute my skills and dedication to the dynamic world of Web3. A quick learner with a keen interest in staying abreast of the latest advancements in the blockchain space, I am excited to embark on a journey to leverage technology for decentralized innovation.</h3>
+<h3 align="center">Enthusiastic and aspiring Web3 Full Stack Developer with a deep passion for blockchain technology and decentralized applications. While currently building a foundation in web3 development and blockchain fundamentals, I am eager to contribute my skills and dedication to the dynamic world of Web3. A quick learner with a keen interest in staying abreast of the latest advancements in the blockchain space, I am excited to embark on a journey to leverage technology for decentralized innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marindimitrov12&label=Profile%20views&color=0e75b6&style=flat" alt="marindimitrov12" /> </p>
 
